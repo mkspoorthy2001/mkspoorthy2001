@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mkspoorthy2001
-- 👀 I’m interested in Python, Machine learning, IoT and Embedded systems.
-- 🌱 I’m currently learning data science and API.
-- 💞️ I’m looking to collaborate on challenging embedded and machine learning projects.
-- 📫 How to reach me mkspoorthy@gmail.com
+- 👀 I’m interested in Ruby, Python, Machine learning, IoT and Embedded systems.
+- 🌱 I’m currently learning data science and AI
+- 💞️ I’m looking to collaborate on challenging ruby and machine learning projects.
+- 📫 How to reach me @mkspoorthy@gmail.com
 
 <!---
 mkspoorthy2001/mkspoorthy2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
